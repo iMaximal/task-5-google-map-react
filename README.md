@@ -14,6 +14,12 @@ npm run build:dll
 npm start
 ```
 
+## Второе решение на чистом JS (ES5)
+
+```bash
+./purejs/
+```
+
 
 ## Описание
 
