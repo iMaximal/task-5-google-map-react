@@ -11,7 +11,7 @@ npm run build:dll
 ## Использование
 
 ```bash
-npm start
+npm run start
 ```
 
 ## Второе решение на чистом JS (ES5)
