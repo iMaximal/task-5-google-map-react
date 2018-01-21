@@ -1,0 +1,19 @@
+# Don't check auto-generated stuff into git
+coverage
+backup
+build
+node_modules
+stats.json
+
+.idea
+*sublime*
+.DS_Store
+dist
+node_modules
+public
+manifest
+
+npm-debug.log
+*.log
+*.lock
+*.map
