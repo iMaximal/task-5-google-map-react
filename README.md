@@ -12,6 +12,7 @@ npm run build:dll
 
 ```bash
 npm run start
+http://localhost:3000
 ```
 
 ## Второе решение на чистом JS (ES5)
